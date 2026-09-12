@@ -1,6 +1,6 @@
 import unittest
 
-from series_practice_1 import *
+from src.series_practice_1 import *
 
 class TestElectronicsStoreSalesAnalysis(unittest.TestCase):
 
